@@ -1,4 +1,3 @@
-# Program to calculate the area of rectangle using its formula i.e. length*breadth
 l = float(input("Enter length of a rectangle:"))
 b = float(input("Enter breadth of a rectangle:"))
 area = l*b
